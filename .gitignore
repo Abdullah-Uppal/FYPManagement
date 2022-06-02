@@ -1,0 +1,8 @@
+
+*.exe
+App.config
+*.config
+.vs/FYP Management/v16/.suo
+*.cache
+obj/Debug/FYP Management.csproj.FileListAbsolute.txt
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
